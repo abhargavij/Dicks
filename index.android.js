@@ -1,0 +1,9 @@
+import React, { Component } from 'react';
+import {
+  AppRegistry,
+  StyleSheet,
+  Text,
+  View
+} from 'react-native';
+import Setup from './application/setup';
+AppRegistry.registerComponent('Dicks', () => Setup);
