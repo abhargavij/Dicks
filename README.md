@@ -71,3 +71,10 @@ UserDetails
 
   username  = sandy
   password = password
+
+
+Note: The application is done using the React Native, as I started learning react recently it would be helpful for me for to gain some expirience.
+
+After completing with React native , I also started to accomplishing the same task using JAVA,  but because of the time limit and limited resources  (low end laptop specs) could not finish it completly using java. I am sending the java project until where i have completed. I have added the java code , you can find them in AndroidStudioProjects Folder where as MyApplicationGPS represents for finding the lat and long values of the current location and MyApplicationLOC represents for pulling the city from the JSON data and showing it in the list view.
+
+The application files include everything expect the AndroidStudioProjects Folder for the application.
